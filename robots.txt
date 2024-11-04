@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uvabaewu.github.io/AhV/sitemap_index.txt
+Sitemap: https://uvabaewu.github.io/oGf/sitemap_index.txt
+Sitemap: https://uvabaewu.github.io/tah/sitemap_index.txt
+Sitemap: https://uvabaewu.github.io/yim/sitemap_index.txt
